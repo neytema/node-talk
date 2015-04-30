@@ -71,7 +71,7 @@ function onread(error, result) {
 In this example callback will never receive first `error` argument.
 
 ```javascript
-var readJSONFilesForgiving = require('./lib/read-json-files');
+var readJSONFilesForgiving = require('./lib/read-json-files-forgiving');
 
 var files = [
     'some.json',

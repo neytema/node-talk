@@ -48,7 +48,7 @@ function onread(error, result) {
 //*/
 
 /*/
-var readJSONFilesForgiving = require('./lib/read-json-files');
+var readJSONFilesForgiving = require('./lib/read-json-files-forgiving');
 
 var files = [
     'some.json',
