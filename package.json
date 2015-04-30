@@ -1,0 +1,19 @@
+{
+  "name": "node-talk",
+  "version": "1.0.0",
+  "description": "Node talk for KaunasJS",
+  "main": "test.js",
+  "dependencies": {
+    "through2": "^0.6.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/neytema/node-talk.git"
+  },
+  "author": "Aloyzas Rimeika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neytema/node-talk/issues"
+  },
+  "homepage": "https://github.com/neytema/node-talk"
+}
