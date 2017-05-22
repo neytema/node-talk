@@ -167,4 +167,4 @@ function onread(error, result, warnings) {
 
 # Streams
 
-[Streams in node](https://nodejs.org/api/stream.html) deserves separate talk. The idea of stream is based upon Unix Shell Script '|' (pipe) operator. [streem-upper](lib/streem-upper.js) and [streem-hr](lib/streem-hr.js) examples shows two simple transform stream implementations that can be run `node lib/stream-upper | lib/stream-hr` together.
+[Streams in node](https://nodejs.org/api/stream.html) deserves separate talk. The idea of stream is based upon Unix Shell Script '|' (pipe) operator. [streem-upper](lib/stream-upper.js) and [streem-hr](lib/stream-hr.js) examples shows two simple transform stream implementations that can be run `node lib/stream-upper | lib/stream-hr` together.
